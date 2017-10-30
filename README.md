@@ -1,13 +1,15 @@
 
-#　初めてのGitHub
+#初めてのGitHub  
 
-##hikariterukina 照喜名　輝  
-##https://github.com/hikariterukina/Sample.git  
+*hikariterukina 照喜名　輝　  　  
+https://github.com/hikariterukina/Sample.git    
 
-#　ローカルリポジトリ
-##お好み焼きレシピ  
-##<a href="okonomi.txt">okonomi.text</a>  
+#ローカルリポジトリ  
 
-#　リモートリポジトリ
-##<a href="README.md">README</a>を作ってみる  
-##マークダウンを覚える  
+*お好み焼きレシピ  　　 
+[okonomi.txt](okonomi.txt)  
+
+#リモートリポジトリ  
+
+*README.mdを作ってみる  
+*マークダウンを覚える    

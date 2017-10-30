@@ -1,4 +1,4 @@
-	okonomi.txt
+okonomi.txt
 
 お好み焼き粉・水・卵をいれます
 キャベツを入れます
